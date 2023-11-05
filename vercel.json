@@ -8,6 +8,7 @@
     "env": {
       "ACCOUNT": "mfcmatheus",
       "REPOSITORY": "wrkspace",
-      "TOKEN": "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"
+      "TOKEN": "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",
+      "URL": "https://api.github.com/repos/mfcmatheus/wrkspace/releases?access_token=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"
     }
 }
