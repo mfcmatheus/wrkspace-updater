@@ -4,10 +4,5 @@
             "source": "/(.*)",
             "destination": "/api"
         }
-    ],
-    "env": {
-      "ACCOUNT": "mfcmatheus",
-      "REPOSITORY": "wrkspace",
-      "TOKEN": "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"
-    }
+    ]
 }
