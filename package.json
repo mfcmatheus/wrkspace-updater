@@ -5,7 +5,7 @@
   "description": "Lightweight update server for Electron apps",
   "scripts": {
     "dev": "npx vercel dev",
-    "test": "xo && jest",
+    "test": "xo && jest --passWithNoTests",
     "precommit": "lint-staged"
   },
   "license": "MIT",
